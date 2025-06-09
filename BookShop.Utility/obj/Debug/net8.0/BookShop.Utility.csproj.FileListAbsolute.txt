@@ -1,0 +1,13 @@
+C:\Users\abdoe\source\repos\book-shop\BookShop.Utility\bin\Debug\net8.0\BookShop.Utility.deps.json
+C:\Users\abdoe\source\repos\book-shop\BookShop.Utility\bin\Debug\net8.0\BookShop.Utility.dll
+C:\Users\abdoe\source\repos\book-shop\BookShop.Utility\bin\Debug\net8.0\BookShop.Utility.pdb
+C:\Users\abdoe\source\repos\book-shop\BookShop.Utility\obj\Debug\net8.0\BookShop.Utility.csproj.AssemblyReference.cache
+C:\Users\abdoe\source\repos\book-shop\BookShop.Utility\obj\Debug\net8.0\BookShop.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdoe\source\repos\book-shop\BookShop.Utility\obj\Debug\net8.0\BookShop.Utility.AssemblyInfoInputs.cache
+C:\Users\abdoe\source\repos\book-shop\BookShop.Utility\obj\Debug\net8.0\BookShop.Utility.AssemblyInfo.cs
+C:\Users\abdoe\source\repos\book-shop\BookShop.Utility\obj\Debug\net8.0\BookShop.Utility.csproj.CoreCompileInputs.cache
+C:\Users\abdoe\source\repos\book-shop\BookShop.Utility\obj\Debug\net8.0\BookShop.Utility.sourcelink.json
+C:\Users\abdoe\source\repos\book-shop\BookShop.Utility\obj\Debug\net8.0\BookShop.Utility.dll
+C:\Users\abdoe\source\repos\book-shop\BookShop.Utility\obj\Debug\net8.0\refint\BookShop.Utility.dll
+C:\Users\abdoe\source\repos\book-shop\BookShop.Utility\obj\Debug\net8.0\BookShop.Utility.pdb
+C:\Users\abdoe\source\repos\book-shop\BookShop.Utility\obj\Debug\net8.0\ref\BookShop.Utility.dll
